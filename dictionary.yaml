@@ -1947,7 +1947,7 @@ dictionary:
         en: "This salad tastes bitter. Is it old?"
       - ll: "ka hi kaki la mao iomi molo"
         en: "Bitter coffee is disgusting!"
-      - ll: "si somo ni mimi molo kai sa maio"
+      - ll: "si paoi ni mimi molo kai sa maio"
         en: "Remember to take good care of your liver."
   - head: "momi"
     type: "content"
@@ -3229,8 +3229,6 @@ dictionary:
     type: "content"
     definition: "hibernate, dormant, winter; bear"
     examples:
-      - ll: "si somo lo kamo moli ni paka piko"
-        en: "Keep the powdered spices in a dark container."
       - ll: "ma niko la oilo lo somo so kai"
         en: "Is the air cold to you in the winter?"
       - ll: "mi pio ha loma ka somo ni kona nalo hina"
