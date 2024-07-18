@@ -84,7 +84,7 @@ dictionary:
         en: "Which star is that?"
       - ll: "ka kino piki ni hailo hina"
         en: "This constellation is the image of a scorpion."
-      - ll: "ka lia lai lo hailo ni sako lia"
+      - ll: "ka lia oaio lo hailo ni sako lia"
         en: "The vehicle drifted in outer space."
       - ll: "ka kalo lo mimi hailo ni sino nalo"
         en: "There is a hot plasma core located in the core of the star."
@@ -176,6 +176,19 @@ dictionary:
         en: "We should provide resources to LGBT+ youth."
       - ll: "ka haino hana ni hai"
         en: "They are generous people."
+  - head: "hano"
+    classification:
+      type: "content"
+      subtype: "proform"
+      tags: []
+    definition: "[demonstrative proform]: that, those, there"
+    examples:
+      - ll: "lo hano ko niko oaki"
+        en: "There's dangerous ice over there!"
+      - ll: "ka kaoi hasa lo loki lapi hano· ko piki·"
+        en: "That snake is multi-coloured. That means it's venomous!"
+      - ll: "ma malo pali sioa lo hina oa hano"
+        en: "Is the new library here or there?"
   - head: "hao"
     classification:
       type: "particle"
@@ -234,7 +247,7 @@ dictionary:
       tags: ["people"]
     definition: "neurodivergence, different from normative mental/cognitive function"
     examples:
-      - ll: "ka lai la kino na nami kaoi so haoki iomi nai"
+      - ll: "ka oaio la kino na nami kaoi so haoki iomi nai"
         en: "Paint-mixing videos calm my hyperactivity."
       - ll: "si haoi sai ni noki haoki mo malo homa na koli koa"
         en: "The medical industry should not marginalize neurodivergent groups."
@@ -248,7 +261,7 @@ dictionary:
         en: "Traditionally, young people turn away from elders when drinking alcohol."
       - ll: "ma kila ni pali na koli haola so hai"
         en: "Are they reading a book on folklore?"
-      - ll: "ka haola lioa ni io kao mi oiki lo palo lai"
+      - ll: "ka haola lioa ni io kao mi oiki lo palo oaio"
         en: "Sitting weirdly in chairs is LGBT+ culture."
   - head: "haoli"
     classification:
@@ -359,7 +372,7 @@ dictionary:
       type: "content"
       subtype: "proform"
       tags: []
-    definition: "[demonstrative proform]: this, that, here, there"
+    definition: "[demonstrative proform]: this, these, here"
     examples:
       - ll: "lo hina ka loka so nai"
         en: "I'm angry right now."
@@ -387,12 +400,26 @@ dictionary:
     examples:
       - ll: "ka kani ni hisa hioi hina"
         en: "This kind of insect is red."
-      - ll: "ka hisa li oina ni pona mo haino sapi"
+      - ll: "ka hisa li oina ni hiso mo haino sapi"
         en: "The doctors assigned a gender to the youth."
       - ll: "ma mia ni hisa haino kai"
         en: "What personality type are you?"
       - ll: "ma oioi lo lami lioa ni hisa oioa"
         en: "There are few word classes in lami lioa."
+  - head: "hiso"
+    classification:
+      type: "content"
+      tags: []
+    definition: "gender"
+    examples:
+      - ll: "ka oiki la lao hiso lai ni kina hiso lai"
+        en: "My gender expression is different to my gender identity."
+      - ll: "ka hiso ni noa io oiki oisa lo oima oina"
+        en: "Transgender people are a gender which is different than assigned at birth."
+      - ll: "ka malo haola lo noki ni hiso· ka oisa na oiki lima lo hilo noli·"
+        en: "Gender is a social construct. It looks completely different around the world."
+      - ll: "si mai ni hiso hilo mi lami mo nai"
+        en: "We should use gender-inclusive language."
   - head: "ho"
     classification:
       type: "content"
@@ -516,7 +543,7 @@ dictionary:
       tags: []
     definition: "chemical (reaction), molecule"
     examples:
-      - ll: "ka oima lo soko hoia sami ni oiki na hosa pona li mo hai"
+      - ll: "ka oima lo soko hoia sami ni oiki na hosa hiso li mo hai"
         en: "Next week they will start HRT."
       - ll: "ka kami ni koli na hosa koia mo nai"
         en: "I'm learning about biochemistry."
@@ -843,7 +870,7 @@ dictionary:
     examples:
       - ll: "ka moi io kako ni poia mili mo nai"
         en: "We need to combat racism."
-      - ll: "ka kila ni kako lina lima mo koi sila"
+      - ll: "ka kila ni kako lina lima mo koi na maso sano"
         en: "The straight men watch many athletic matches."
       - ll: "si kako sai la naso oioi· si kao ni haoli kai·"
         en: "Don't struggle over the little things. Conserve your energy."
@@ -958,7 +985,7 @@ dictionary:
         en: "The breathtaking open space is vibrant."
       - ll: "ka hana li pamo kila ni kaoi moli mo koi"
         en: "The man put [eye] shadow on his eyelids."
-      - ll: "lo kaoi sami ma lia lai li mia"
+      - ll: "lo kaoi sami ma lia oaio li mia"
         en: "Where are you going on holiday next summer?"
   - head: "kapo"
     classification:
@@ -1084,7 +1111,7 @@ dictionary:
         en: "I was confused by the presentation."
       - ll: "ko kina lioa lo iala sami li hami mo nai"
         en: "I am coming out to my parents tomorrow."
-      - ll: "ka loi haiki ni kina pona mo hai"
+      - ll: "ka loi haiki ni kina hiso mo hai"
         en: "They are experimenting with their gender expression."
       - ll: "si kina li nai ni pali hina mo kai"
         en: "You should show me that book."
@@ -1185,7 +1212,7 @@ dictionary:
         en: "The gay person bought flowers for his boyfriend."
       - ll: "si hako ni koi"
         en: "Kiss the boy."
-      - ll: "ko kaki lo liko lima ni malo oioi na koi sila"
+      - ll: "ko kaki lo liko lima ni malo oioi na koi na maso sano"
         en: "The rooms of straight men are often dirty."
   - head: "koia"
     classification:
@@ -1267,7 +1294,7 @@ dictionary:
     examples:
       - ll: "ka koma sai so haino na lo mini"
         en: "The lonely person does not feel empty."
-      - ll: "ka pona koma ni hai"
+      - ll: "ka hiso koma ni hai"
         en: "They are genderless."
       - ll: "ma koma ni iaoa"
         en: "Are there zero fruit?"
@@ -1366,17 +1393,16 @@ dictionary:
   - head: "lai"
     classification:
       type: "content"
-      tags: ["emotion"]
-    definition: "ease, relaxation, rest, leisure, contentment, calm"
+      subtype: "proform"
+      tags: []
+    definition: "[1st person exlusive proform]: I, we (not you)"
     examples:
-      - ll: "si lai lo palo lolo ni lao mo kai"
-        en: "Relax yourself on the bed."
-      - ll: "ka lai la lama lina so hai"
-        en: "The music calms them."
-      - ll: "ka lai so nai"
-        en: "I am content."
-      - ll: "ka lia lai li kamo na lono hana ni pali na holo sioa"
-        en: "The newspaper went easily into the mailbox."
+      - ll: "ka oima mapo mo lai· ma kai lo mia·"
+        en: "We started eating. Where are you?"
+      - ll: "ka loka so lai· si oaio so kai sa maoa·"
+        en: "I'm so angry. I hope you're feeling calm."
+      - ll: "ma nima nana mia so lai"
+        en: "How exactly do I feel?"
   - head: "laia"
     classification:
       type: "content"
@@ -1503,12 +1529,10 @@ dictionary:
     classification:
       type: "content"
       tags: ["people"]
-    definition: "self, identity; [reflexive]"
+    definition: "self, identity"
     examples:
       - ll: "si loi lo lao mo kai"
-        en: "You should search within yourself."
-      - ll: "ma sapi ni lao mo hai"
-        en: "Did they clean themselves?"
+        en: "You should search within your self."
       - ll: "ka homa ni lao nilo nai"
         en: "My gay identity is important."
   - head: "laoi"
@@ -1549,6 +1573,18 @@ dictionary:
         en: "Do you have a celebrity crush?"
       - ll: "ka lapo ni maoi homa hala so nai"
         en: "The dragon is a majestic being to us."
+  - head: "laso"
+    classification:
+      type: "content"
+      tags: []
+    definition: "non-binary, neither exclusively feminine nor exclusively masculine"
+    examples:
+      - ll: "ka iapa ni pali hina mo haino laso lapo"
+        en: "This book was written by a revered non-binary person."
+      - ll: "ka nima hiso io laso ia miko oioi so lai"
+        en: "My experience of gender is non-binary with some feminine elements."
+      - ll: "ma laso ni haino koko na lo sio hina"
+        en: "Is the protagonist in this story non-binary?"
   - head: "li"
     classification:
       type: "particle"
@@ -1650,7 +1686,7 @@ dictionary:
     examples:
       - ll: "ka lami mo nai ni io limo (na la lima) ni oapo nai"
         en: "I said that my partner is bisexual."
-      - ll: "ka iami la pona hilo so haino limo (na la hilo)"
+      - ll: "ka iami la hiso hilo so haino limo (na la hilo)"
         en: "The pansexual person is attracted to all genders."
       - ll: "ka lia holo lo hilo li hono hina mo haino koli limo"
         en: "The bisexual student always attended that coalition."
@@ -1672,7 +1708,7 @@ dictionary:
       tags: []
     definition: "cloth(es), textile, outfit, dress"
     examples:
-      - ll: "si hisa sai mi pona ni lino mo malo mana"
+      - ll: "si hisa sai mi hiso ni lino mo malo mana"
         en: "Stores should not categorize clothes based on gender."
       - ll: "ma lino mi homo mamo ni kai"
         en: "Are you dressed in wool?"
@@ -2091,7 +2127,7 @@ dictionary:
       tags: ["people", "lgbtq"]
     definition: "homosexual, bisexual, non-heterosexual"
     examples:
-      - ll: "ka sila ni nai hao· nana ka ialo maso mo nai po ioki·"
+      - ll: "ka maso sano ni nai hao· nana ka ialo maso mo nai po ioki·"
         en: "I think I'm straight, but I had a non-straight sexual encounter. [Do you\
       \ have advice?]"
       - ll: "lo pana ka maso mi lima mo mamo laoi"
@@ -2443,12 +2479,14 @@ dictionary:
       type: "content"
       subtype: "proform"
       tags: []
-    definition: "[1st person proform]: we, I"
+    definition: "[1st person inclusive proform]: I, we (including you)"
     examples:
-      - ll: "ka mapo ni lono homa mo nai"
-        en: "We eat a large meal."
       - ll: "ka mapo ni iaoa mo nai"
         en: "I eat fruit."
+      - ll: "ka sali io lia li malo kino mo nai sa maio"
+        en: "I'm so glad we went to the cinema!"
+      - ll: "ko mapo mo nai po mai"
+        en: "We're about to eat [so come along!]"
   - head: "naka"
     classification:
       type: "content"
@@ -2804,7 +2842,7 @@ dictionary:
       tags: ["cosmos"]
     definition: "land, earth, abode"
     examples:
-      - ll: "lo sami hina si lia ni noli lai"
+      - ll: "lo sami hina si lia ni noli oaio"
         en: "After that let's go to a peaceful place."
       - ll: "ka holo la noli ni komo"
         en: "Trees come from the earth."
@@ -2864,7 +2902,7 @@ dictionary:
       tags: ["spatial"]
     definition: "down, below, under, nether"
     examples:
-      - ll: "si palo ki lai lo nono haioa moli"
+      - ll: "si palo ki oaio lo nono haioa moli"
         en: "Let's lie down and relax under the night sky."
       - ll: "ka kao lo nono iala ni nai"
         en: "We live in the west."
@@ -2898,6 +2936,20 @@ dictionary:
         en: "Do you eat bread and fruit (separately)?"
       - ll: "ma mapo ni pao oa iaoa mo kai"
         en: "Do you eat bread or fruit?"
+  - head: "oaio"
+    classification:
+      type: "content"
+      tags: []
+    definition: "ease, relaxation, rest, leisure, contentment, calm"
+    examples:
+      - ll: "si oaio lo palo soma ni mo kai"
+        en: "Relax yourself on the bed."
+      - ll: "ko oaio la lio so hai"
+        en: "The music calms them."
+      - ll: "ka oaio so nai"
+        en: "I am content."
+      - ll: "ka lia oaio li kamo na lono hana ni pali na holo sioa"
+        en: "The newspaper went easily into the mailbox."
   - head: "oaki"
     classification:
       type: "content"
@@ -2965,11 +3017,11 @@ dictionary:
     \ said]; [indicates that the speaker wants the listener to provide a continuation\
     \ of what they are saying]"
     examples:
-      - ll: "ka lai ni nima na lo malo mapo hina· oi ka ha hali la iami mapo·"
+      - ll: "ka oaio ni nima na lo malo mapo hina· oi ka ha hali la iami mapo·"
         en: "The atmosphere is great in that restaurant. Plus the food tastes amazing!"
       - ll: "—ka pao lima lo palo mapo· —oi ma hana ni sako mapo mo kai·"
         en: "—There is a lot of rice on the dinner table. —And did you set out the utensils?"
-      - ll: "lo pio hina ka nalo ka iala ka lai oi"
+      - ll: "lo pio hina ka nalo ka iala ka oaio oi"
         en: "During this season, it's hot, it's sunny, it's relaxed [and tell me what\
       \ else?]"
   - head: "oika"
@@ -3012,7 +3064,7 @@ dictionary:
       tags: ["nature", "movement"]
     definition: "air, wind, gaseous, blow, breeze"
     examples:
-      - ll: "ka lai la oilo iana"
+      - ll: "ka oaio la oilo iana"
         en: "The soft breeze is relaxing."
       - ll: "si oilo li mapo nalo"
         en: "Blow on the hot food."
@@ -3235,7 +3287,7 @@ dictionary:
         en: "WLW like cottages."
       - ll: "ka hana li nai ni mapo mo sako pana"
         en: "Pastoral tools give us food."
-      - ll: "ma poli io lai lo pana mo kai"
+      - ll: "ma poli io oaio lo pana mo kai"
         en: "Are you able to relax in nature?"
       - ll: "si lina lo pana mo oina"
         en: "Let the children play in the fields."
@@ -3512,16 +3564,6 @@ dictionary:
         en: "I like the taste of mushrooms."
       - ll: "lo pomo ka nono la komo ni pali"
         en: "Leaves fall from the trees in the autumn."
-  - head: "pona"
-    classification:
-      type: "content"
-      tags: ["people", "gender", "lgbtq"]
-    definition: "gender; nonbinary, neither exclusively feminine nor exclusively masculine"
-    examples:
-      - ll: "ka kino ni pali hina mo haino pona lapo"
-        en: "This book was written by a revered non-binary person."
-      - ll: "ka pona ni noa io oiki oisa lo oima oina"
-        en: "Transgender people are a gender which is different than assigned at birth."
   - head: "popa"
     classification:
       type: "content"
@@ -3653,7 +3695,7 @@ dictionary:
       tags: ["time", "spatial"]
     definition: "after, time afterwards; next, following"
     examples:
-      - ll: "ka lai lo sami mapo mo nai"
+      - ll: "ka oaio lo sami mapo mo nai"
         en: "I rest after eating."
       - ll: "ka lina ni kino sami"
         en: "The next picture is amazing."
@@ -3778,6 +3820,24 @@ dictionary:
         en: "Nowadays everything works with electricity."
       - ll: "ko sino lo nipo oapo so nai"
         en: "I feel sparks when I'm around my partner."
+  - head: "sio"
+    classification:
+      type: "content"
+      tags: []
+    definition: "remember, memory, story"
+    examples:
+      - ll: "ka sio la oina kai so nai"
+        en: "I remember when you were young."
+      - ll: "lo sio hina ko lapo na oilo nalo"
+        en: "There's a fire-breathing dragon in this story!"
+      - ll: "ka posa la sio oaki so lai"
+        en: "I'm overwhelmed by bad memories."
+      - ll: "ka lami lo noki nai ni sio lima mo haila"
+        en: "The elderly tell so many stories in our community."
+      - ll: "ma sio la pio na io kaoi nao la hilo so nai"
+        en: "Do you remember a time when everything felt more vibrant to us?"
+      - ll: "si oaio so kai iana· ko sio nana·"
+        en: "Be still, sweetheart. It's only a memory."
   - head: "sioa"
     classification:
       type: "content"
