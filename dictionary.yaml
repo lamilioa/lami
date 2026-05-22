@@ -287,6 +287,18 @@ dictionary:
         en: "They are bisexual women-loving-women."
       - ll: "ka haoma la haoma so haoma"
         en: "Lesbians are in lesbians with lesbians."
+  - head: "haoso"
+    classification:
+      type: "content"
+      tags: []
+    definition: "detail, notes, explain"
+    examples:
+      - ll: "si haoso nao li lai ni pali hano mo kai sa hali"
+        en: "Could you please further explain that page to me?"
+      - ll: "ko moi io iapa lo pio koli hina ni haoso"
+        en: "You'll need to take notes in this class."
+      - ll: "ma iaio lo kino kaoi ni haoso mo kai"
+        en: "Will you add detail to the painting?"
   - head: "hapi"
     classification:
       type: "content"
@@ -517,7 +529,7 @@ dictionary:
     classification:
       type: "content"
       tags: ["people"]
-    definition: "coalition, comrade, collection of different people(s)"
+    definition: "comrade, friend, ally, coalition"
     examples:
       - ll: "ka haika ni hono na li sano na poia mili"
         en: "They formed a coalition against racism."
@@ -629,7 +641,7 @@ dictionary:
   - head: "iami"
     classification:
       type: "content"
-      tags: []
+      tags: ["sense"]
     definition: "taste, salivate, appreciate"
     examples:
       - ll: "ka hali la iami iaoa so nai"
@@ -802,6 +814,20 @@ dictionary:
         en: "The school of fish swim through the water."
       - ll: "ka lami io mapo sai ni iopa no mo iopa losi"
         en: "The sharks say the fish are not food."
+  - head: "iosa"
+    classification:
+      type: "content"
+      tags: ["material", "spatial", "movement"]
+    definition: "pull, heavy, gravity, weight"
+    examples:
+      - ll: "si ioso si iosa ni mono hoko"
+        en: "Grab and pull the doorknob."
+      - ll: "ho ko iosa mo moka ni lai"
+        en: "Woah, I'm going to fall to the floor."
+      - ll: "lo nima soma ka iosa lo lipi kila so lai"
+        en: "When I'm tired, my eyelids feel heavy."
+      - ll: "ka iosa ni mo kimo iosa oioi"
+        en: "The magnets attract each other."
   - head: "ioso"
     classification:
       type: "content"
@@ -1054,7 +1080,7 @@ dictionary:
   - head: "kila"
     classification:
       type: "content"
-      tags: []
+      tags: ["sense"]
     definition: "look, view, watch, guard, examine, see, read, visible, eye, vision"
     examples:
       - ll: "ma kila ni iala na kaoi lioa so kai"
@@ -1446,7 +1472,7 @@ dictionary:
   - head: "lala"
     classification:
       type: "content"
-      tags: ["body"]
+      tags: ["body", "sense"]
     definition: "hear, ear, audible, listen"
     examples:
       - ll: "ma lala ni lama kaki so kai"
@@ -1474,7 +1500,7 @@ dictionary:
   - head: "lama"
     classification:
       type: "content"
-      tags: []
+      tags: ["sound"]
     definition: "sound, noise, vibration, resonate"
     examples:
       - ll: "ka lama ni lapi na sako lina"
@@ -1515,7 +1541,7 @@ dictionary:
     classification:
       type: "content"
       tags: ["emotion"]
-    definition: "drunk, intoxicated, sleep-deprived"
+    definition: "drunk, intoxicated, sleep-deprived, semi-conscious, ecstatic"
     examples:
       - ll: "ka iami kaki la mao lani lima"
         en: "Many alcoholic beverages taste disgusting."
@@ -1525,6 +1551,10 @@ dictionary:
         en: "School is making me sleep-deprived."
       - ll: "si koko sai ni sako lia lo io lani ni kai"
         en: "Do not operate a vehicle when you are inebriated."
+      - ll: "ko lani mo oala mika so miko na koli lako"
+        en: "Venus puts the oracle into a state of trance."
+      - ll: "ka lani mo haino sapi so lai li io mapo sai ni iana lima mo lai"
+        en: "The doctor hypnotised me to not eat so much sugar."
   - head: "lao"
     classification:
       type: "content"
@@ -1573,6 +1603,18 @@ dictionary:
         en: "Do you have a celebrity crush?"
       - ll: "ka lapo ni maoi homa hala so nai"
         en: "The dragon is a majestic being to us."
+  - head: "lasi"
+    classification:
+      type: "content"
+      tags: ["spatial"]
+    definition: "join, connect, bind, tie"
+    examples:
+      - ll: "si lasi lo hono na nolo lioa ni mo kai"
+        en: "You should join a coalition for lgbt+ liberation."
+      - ll: "ma mapo ni liki lasi hi mo oina sa kolo"
+        en: "Did the child eat glue?!"
+      - ll: "ka lasi mi laia ni lapi kani mo hai"
+        en: "He tied the red string in knots."
   - head: "laso"
     classification:
       type: "content"
@@ -1998,7 +2040,7 @@ dictionary:
   - head: "mako"
     classification:
       type: "content"
-      tags: ["body"]
+      tags: ["body", "sense"]
     definition: "arm, hand, tactile organ, touch, interaction"
     examples:
       - ll: "ma hali ni mako hasa"
@@ -2034,15 +2076,17 @@ dictionary:
   - head: "mami"
     classification:
       type: "content"
-      tags: []
-    definition: "salt, savoury, umami"
+      tags: ["body"]
+    definition: "breast, nipple, gland, nozzle"
     examples:
-      - ll: "ka iaio li iaoa ni mami mo haino mapo"
-        en: "The chef adds salt to the vegetables."
-      - ll: "ko mami ni palo iana hina· ma haoa koli ni iana·"
-        en: "This pancake is savoury. Did you forget the sugar?"
-      - ll: "si mapo ni mao mami lo io mosa so kai"
-        en: "You should eat savoury broth when you feel ill."
+      - ll: "ka mapo la mami na lo mana soi ni soi haoli mo mopa sino lai"
+        en: "My car consumes petrol from the nozzle at the gas station."
+      - ll: "ko mapo la mami hami mo oina mamo"
+        en: "The calf will suckle from its mother's udders."
+      - ll: "ma kami mana ni lino mami mo kai"
+        en: "Did you buy a new brassiere?"
+      - ll: "si nami ni mami na kamo mao napa· ko nili mi mao oilo·"
+        en: "Twist the nozzle on the water dispenser and it'll come out in a mist."
   - head: "mamo"
     classification:
       type: "content"
@@ -2250,7 +2294,7 @@ dictionary:
   - head: "mioa"
     classification:
       type: "content"
-      tags: []
+      tags: ["sound"]
     definition: "groan, moan, wail, non-speech vocalization"
     examples:
       - ll: "ka lama ni mioa naso mo hai"
@@ -2292,6 +2336,18 @@ dictionary:
         en: "This olive is a neutral green colour."
       - ll: "ka lia mi noli komo mo hila moli misi"
         en: "A grey shadowy spirit passed through the forest."
+  - head: "miso"
+    classification:
+      type: "content"
+      tags: []
+    definition: "salt, savoury, umami"
+    examples:
+      - ll: "ka iaio li iaoa ni mami mo haino mapo"
+        en: "The chef adds salt to the vegetables."
+      - ll: "ko mami ni palo iana hina· ma haoa koli ni iana·"
+        en: "This pancake is savoury. Did you forget the sugar?"
+      - ll: "si mapo ni mao mami lo io mosa so kai"
+        en: "You should eat savoury broth when you feel ill."
   - head: "mo"
     classification:
       type: "particle"
@@ -2396,7 +2452,7 @@ dictionary:
   - head: "mona"
     classification:
       type: "content"
-      tags: []
+      tags: ["body", "sense"]
     definition: "nose, smell"
     examples:
       - ll: "ka kaki hilo lo mona"
@@ -2879,6 +2935,20 @@ dictionary:
         en: "9% (nine pergross)"
       - ll: "(na) kala noma"
         en: "ninth root"
+  - head: "nomo"
+    classification:
+      type: "content"
+      tags: ["spatial", "movement"]
+    definition: "stretch, extend, spread, unfurl, unroll"
+    examples:
+      - ll: "ko nomo mi noli hilo ni kako oilo hina"
+        en: "This storm is going to spread across the whole land."
+      - ll: "lo sami na mana hai ka nomo ni lino palo mo lai"
+        en: "After buying it, I unrolled the carpet."
+      - ll: "si nomo ni mako li io kami ni mapo hina"
+        en: "Reach your hand out to receive this food."
+      - ll: "ko laka ni lono piso lo io nomo nao ni hai mo kai"
+        en: "Brittle things will break if you stretch them too much."
   - head: "noni"
     classification:
       type: "content"
@@ -2974,6 +3044,20 @@ dictionary:
         en: "With respect, the gods will be generous."
       - ll: "ka maoa ni nipo oala so haino lima"
         en: "It's the desire of many people to be close to the gods."
+  - head: "oamo"
+    classification:
+      type: "content"
+      tags: []
+    definition: "complex, puzzle, riddle, problem"
+    examples:
+      - ll: "sa mino ka laia sano ni oamo mo lai"
+        en: "Finally I disentangled the puzzle."
+      - ll: "ka oamo ni nima na haino oina"
+        en: "Young people's feelings are complex."
+      - ll: "ma poli io pona ni oamo lami lai mo kai"
+        en: "Can you solve my riddles?"
+      - ll: "ko oamo koka lima lo kako koli"
+        en: "There will be many maths problems on the exam."
   - head: "oana"
     classification:
       type: "content"
@@ -3145,7 +3229,7 @@ dictionary:
   - head: "oisa"
     classification:
       type: "content"
-      tags: ["measure"]
+      tags: ["measure", "sense"]
     definition: "seem, impression, intuit(ion), comparison; [comparative like/as]"
     examples:
       - ll: "ka oisa hali ni pali so nai"
@@ -3311,7 +3395,7 @@ dictionary:
     classification:
       type: "content"
       tags: []
-    definition: "hold, protect, guard, safe"
+    definition: "hold, protect, guard, safe, care for, look after"
     examples:
       - ll: "mo kai oala pioa si paoi ni pao nai sa maio"
         en: "Saturn, please protect our crops."
@@ -3319,6 +3403,22 @@ dictionary:
         en: "The mother bear protects her young."
       - ll: "lo kosa noli si lia li sia paoi na malo kai"
         en: "In the event of an earthquake, get to a safe part of your house."
+      - ll: "ka paoi lo malo ni hami hami mo nai"
+        en: "We look after our grandparents at home."
+      - ll: "ko haoa ni paoi oina na lo hoia hina sa paio"
+        en: "We don't have any childcare arrangements for tonight!"
+  - head: "papa"
+    classification:
+      type: "content"
+      tags: ["sound"]
+    definition: "burst, explode, shoot"
+    examples:
+      - ll: "ma lala la papa na sako kako so kai"
+        en: "Did you hear the gunshots?"
+      - ll: "ma pio pilo ia papa kaoi"
+        en: "Will there be fireworks at the celebration?"
+      - ll: "ka papa ni iaoa mo nalo iala"
+        en: "The fruit burst from the heat of the sun."
   - head: "papo"
     classification:
       type: "content"
@@ -3382,7 +3482,7 @@ dictionary:
     classification:
       type: "content"
       tags: ["people", "religion"]
-    definition: "mortal, human, mundane, (mortal) soul"
+    definition: "mundane, worldly, mortal (soul), typical, non-magical"
     examples:
       - ll: "ko pili nana ni kai· si loi sai io haika nao na poli kai"
         en: "You are only human. Don't try to do more than you can."
@@ -3420,6 +3520,20 @@ dictionary:
         en: "Don't lose your way in the crowd of people."
       - ll: "ko pimi lo malo mao ni pomo la io sapi sai mo kai"
         en: "Fungus is swarming the bathroom because you didn't clean it."
+  - head: "pino"
+    classification:
+      type: "content"
+      tags: ["spatial", "movement"]
+    definition: "slide, slip, shift, dislodge, displace"
+    examples:
+      - ll: "ka pino li nono kona ni niko"
+        en: "The snow slid down the mountain."
+      - ll: "si lia sona li io pino sai lo moka na ia mao"
+        en: "Move carefully so that you don't slip on the wet floor."
+      - ll: "ka pino ni haino lima mo kosa noli"
+        en: "Many people were displaced by the earthquake."
+      - ll: "ka lia laka mi kala mo nai ka pino li nono ni nai"
+        en: "I took a misstep and fell down."
   - head: "pio"
     classification:
       type: "content"
@@ -3446,6 +3560,22 @@ dictionary:
         en: "Don't you think Saturn's rings look beautiful?"
       - ll: "ko holo sai ni pao nai la io lami maoa sai li oala pioa"
         en: "If we don't pray to Saturn, our crops won't grow!"
+  - head: "pipa"
+    classification:
+      type: "content"
+      tags: ["sense", "sound"]
+    definition: "tingle, tickle, fizz, sizzle"
+    examples:
+      - ll: "ma pipa lo lipi la lio so kai"
+        en: "Do you get tingles on your skin from listening to music?"
+      - ll: "si poka io pipa ni lai mo kai"
+        en: "Stop tickling me!"
+      - ll: "ka pipa lo hako nai ni momo oili na lo mao"
+        en: "The bubbles in my drink are fizzy in my mouth."
+      - ll: "ko pipa soma so mako kai lo io ioso ni hai"
+        en: "If you squeeze your arm it'll go tingly and numb."
+      - ll: "ka pipa ni iaoa lo soi nalo"
+        en: "The vegetables sizzle in the hot oil."
   - head: "piso"
     classification:
       type: "content"
@@ -3564,6 +3694,18 @@ dictionary:
         en: "I like the taste of mushrooms."
       - ll: "lo pomo ka nono la komo ni pali"
         en: "Leaves fall from the trees in the autumn."
+  - head: "pona"
+    classification:
+      type: "content"
+      tags: ["spatial"]
+    definition: "simple, arrange, organise, fit"
+    examples:
+      - ll: "ma pona io lino mi kaoi iala lo haola na lo sami naka"
+        en: "Is it appropriate to wear bright colours at a funeral?"
+      - ll: "si pona mi kaoi li noki nio ni masa hina"
+        en: "Arrange these grains into three groups by colour."
+      - ll: "ka maoa so miko la io haika ni lami pona"
+        en: "The woman wanted to make a simple language."
   - head: "popa"
     classification:
       type: "content"
@@ -3731,8 +3873,23 @@ dictionary:
       - ll: "sa kalo sao laka iapa"
         en: "You're right [but you made a typo.]"
       - ll: "ni hilo ko oisa io nono la komo ni pali sa lomi sao ioli"
-        en: "Sadly, everything must fall like a leaf from the trees [but this sentence\
-      \ is beautiful.]"
+        en: "Sadly, everything must fall like a leaf from the trees [but this sentence is beautiful.]"
+  - head: "saoi"
+    classification:
+      type: "content"
+      tags: ["time", "measure"]
+    definition: "infinite, always, uncountable"
+    examples:
+      - ll: "lo saoi ka kila lo hoia ni pali mo nai"
+        en: "We always read in the evening."
+      - ll: "mi saoi sio ka hono ni lai ki hai"
+        en: "She and i have been friends for as long as I can remember."
+      - ll: "ko lili ni sio na ia kai li mino saoi"
+        en: "Memories of you will echo until the end of time."
+      - ll: "ka koka saoi ni haoka na io maio ni kai mo lai"
+        en: "There are an infinite number of reasons why I love you."
+      - ll: "ma mana mapo ia saoi na poli mapo"
+        en: "Is the buffet all-you-can-eat?"
   - head: "sapi"
     classification:
       type: "content"
@@ -3751,7 +3908,7 @@ dictionary:
       tags: ["art"]
     definition: "poetry, lyric"
     examples:
-      - ll: "ka iapa ni sapo haoma ni haino sapoaoma"
+      - ll: "ka iapa ni sapo haoma mo haino sapoaoma"
         en: "Sappho writes lesbian poetry."
       - ll: "ko lomi la sapo iolo so nai"
         en: "Poetry about loss makes me feel sad."
@@ -3808,6 +3965,20 @@ dictionary:
         en: "The sage seeks freedom from desire."
       - ll: "si sila lo io sana ni mali pako"
         en: "Be wise when you're crossing the road!"
+  - head: "simi"
+    classification:
+      type: "content"
+      tags: ["nature", "creature", "people"]
+    definition: "primate, monkey, ape, human (animal)"
+    examples:
+      - ll: "ma poli io lami mi mako mo simi sika"
+        en: "Can the orangutan speak using sign-language?"
+      - ll: "lo pili ka kao lo nipo mao ni mo simi"
+        en: "Primates typically live near water."
+      - ll: "si sio la io simi ni kai"
+        en: "Remember that you are an animal."
+      - ll: "si lia mi noli komo si nima la lio pana so simi hilo"
+        en: "All humans should walk through the woods and sense the rhythms of nature."
   - head: "sino"
     classification:
       type: "content"
@@ -3848,6 +4019,16 @@ dictionary:
         en: "Redo your last attempt."
       - ll: "ko lia sioa li hina ni papo· si kami ni sako naka"
         en: "The authorities are returning here! Grab your weapons."
+  - head: "sipa"
+    classification:
+      type: "content"
+      tags: ["movement"]
+    definition: "jump, leap, dance"
+    examples:
+      - ll: "ka sipa mo hila na mamo kona ka lio mi sako hoko"
+        en: "The faun is dancing and playing the flute."
+      - ll: "si sipa li sana na mao lia mo kai"
+        en: "Jump across the river!"
   - head: "siso"
     classification:
       type: "content"
@@ -3940,6 +4121,18 @@ dictionary:
         en: "This volcano has been dormant for a very long time."
       - ll: "lo somo ko somo mo somo"
         en: "The bear will hibernate during the winter."
+  - head: "sona"
+    classification:
+      type: "content"
+      tags: ["sense", "sound"]
+    definition: "quiet, gentle, shy, reserved, careful"
+    examples:
+      - ll: "ka lami sai mo hai la io sona ni hai"
+        en: "He didn't talk because he's shy."
+      - ll: "si hana sona ni piso li kamo"
+        en: "Gently place the glass into the container."
+      - ll: "ma lala la sona pana so kai"
+        en: "Do you hear the quiet of the open spaces?"
   - head: "sopo"
     classification:
       type: "content"
@@ -3950,3 +4143,15 @@ dictionary:
         en: "I find that yellow sea invertebrate's laugh annoying."
       - ll: "ka kao lo sopo piki ni iopa lina"
         en: "Clownfish live in sea anemonies."
+  - head: "soso"
+    classification:
+      type: "content"
+      tags: []
+    definition: "row, line, queue, order, direct"
+    examples:
+      - ll: "si lia mi soso koka li mimi malo mo nai"
+        en: "Let's enter the building in consecutive order."
+      - ll: "ko kao lo soso na li malo kino li saoi mo kai"
+        en: "You'll be queuing for the cinema forever."
+      - ll: "ma mali na soso nao li nipo mao"
+        en: "Is there a more direct route to the beach?"
