@@ -37,7 +37,7 @@
             "definition": "[3rd person proform]: they, she, he, it",
             "examples": [
                 {
-                    "ll": "ko hai ni haino na io mapo ni pao kai",
+                    "ll": "ko hai ni haino na io mapo ni masa kai",
                     "en": "He's the one that ate your bread!"
                 },
                 {
@@ -314,7 +314,7 @@
                     "en": "I need to ask my mother."
                 },
                 {
-                    "ll": "ma haino na haika pao ni hami",
+                    "ll": "ma haino na haika masa ni hami",
                     "en": "Is your father a baker?"
                 }
             ]
@@ -591,7 +591,7 @@
                     "en": "The last lesson was useful."
                 },
                 {
-                    "ll": "lo hapi mapo ka haika ni pao mo nai",
+                    "ll": "lo hapi mapo ka haika ni masa mo nai",
                     "en": "Before eating it, we will make the rice."
                 }
             ]
@@ -670,7 +670,7 @@
                     "en": "There are asexual community sites on the internet."
                 },
                 {
-                    "ll": "ka kino lina na haola hiki ni pao iana",
+                    "ll": "ka kino lina na haola hiki ni masa iana",
                     "en": "Cake is an ace-culture meme."
                 }
             ]
@@ -718,7 +718,7 @@
                     "en": "May the water cup be completely full."
                 },
                 {
-                    "ll": "ma mapo ni hilo pao mo kai",
+                    "ll": "ma mapo ni hilo masa mo kai",
                     "en": "Did you eat the whole pastry?"
                 },
                 {
@@ -1108,7 +1108,7 @@
                     "en": "—I'm looking for a book. —Containing what?"
                 },
                 {
-                    "ll": "ka haika ni pao lipi na ia hisa mono nio",
+                    "ll": "ka haika ni masa lipi na ia hisa mono nio",
                     "en": "I'm making a three-bean tortilla wrap."
                 },
                 {
@@ -1128,7 +1128,7 @@
             "definition": "extra, additional, also",
             "examples": [
                 {
-                    "ll": "ka mapo ni pao· iaio ka mapo ni iaoa",
+                    "ll": "ka mapo ni masa· iaio ka mapo ni iaoa",
                     "en": "I ate bread, and I also ate vegetables."
                 },
                 {
@@ -1251,7 +1251,7 @@
                     "en": "Do you appreciate the music?"
                 },
                 {
-                    "ll": "ka iami ni pao mo nai",
+                    "ll": "ka iami ni masa mo nai",
                     "en": "I lick the bread."
                 },
                 {
@@ -1269,7 +1269,7 @@
             "definition": "sweet, sugar, delicate, cute",
             "examples": [
                 {
-                    "ll": "ka hali iami la pao iana",
+                    "ll": "ka hali iami la masa iana",
                     "en": "Cake is delicious."
                 },
                 {
@@ -2279,7 +2279,7 @@
                     "en": "I judge the picture to be good."
                 },
                 {
-                    "ll": "ma kipi na koka mia ni pao iana hina",
+                    "ll": "ma kipi na koka mia ni masa iana hina",
                     "en": "How much is this doughnut worth?"
                 },
                 {
@@ -2353,7 +2353,7 @@
                     "en": "Does your body hurt?"
                 },
                 {
-                    "ll": "ko haika ni pao la io koa mi lio mako ni liki pao",
+                    "ll": "ko haika ni masa la io koa mi lio mako ni liki masa",
                     "en": "Bread is made by shaping the dough via kneading."
                 },
                 {
@@ -2630,7 +2630,7 @@
                     "en": "Is this wall built with stone blocks?"
                 },
                 {
-                    "ll": "ka kono iaio ni pao liko iana sa lomi",
+                    "ll": "ka kono iaio ni masa liko iana sa lomi",
                     "en": "Sadly the cookies are super hard."
                 }
             ]
@@ -3227,7 +3227,7 @@
                     "en": "The clay pot cured in the fire."
                 },
                 {
-                    "ll": "ko homa haioa ni liki pao lo sami oioi hao",
+                    "ll": "ko homa haioa ni liki masa lo sami oioi hao",
                     "en": "The dough should rise soon."
                 }
             ]
@@ -3592,7 +3592,7 @@
                     "en": "A star flew above the earth."
                 },
                 {
-                    "ll": "ka mapo lo moli ni pao",
+                    "ll": "ka mapo lo moli ni masa",
                     "en": "The rice is eaten at night."
                 },
                 {
@@ -3952,7 +3952,7 @@
                     "en": "The old person killed the trickster with a magic wand."
                 },
                 {
-                    "ll": "ka maoa io iapo mi maki homa ni liki pao mo nai",
+                    "ll": "ka maoa io iapo mi maki homa ni liki masa mo nai",
                     "en": "I want to beat the dough with a big stick."
                 }
             ]
@@ -4092,7 +4092,7 @@
                     "en": "This business group is bad."
                 },
                 {
-                    "ll": "ma poli io mana mi pao oioi ni iaoa mo nai",
+                    "ll": "ma poli io mana mi masa oioi ni iaoa mo nai",
                     "en": "Can we exchange grain for fruit?"
                 },
                 {
@@ -4100,7 +4100,7 @@
                     "en": "They're selling a new tea at the teashop."
                 },
                 {
-                    "ll": "si mana ni pao iana",
+                    "ll": "si mana ni masa iana",
                     "en": "Sell some cookies!"
                 }
             ]
@@ -4195,7 +4195,7 @@
                     "en": "The predator devoured the nimble creature."
                 },
                 {
-                    "ll": "ma mapo ni pao",
+                    "ll": "ma mapo ni masa",
                     "en": "Were the crops eaten?"
                 },
                 {
@@ -4205,6 +4205,38 @@
                 {
                     "ll": "si mapo lo malo mapo so nai",
                     "en": "Let's dine (experience a meal) at a restaurant."
+                }
+            ]
+        },
+        {
+            "head": "masa",
+            "classification": {
+                "type": "content",
+                "tags": [
+                    "nature"
+                ]
+            },
+            "definition": "crop, staple grain or starch (product), cereal, rice",
+            "examples": [
+                {
+                    "ll": "ka moi io kao lo mao nalo ni masa",
+                    "en": "You need to soak the rice in hot water."
+                },
+                {
+                    "ll": "ka maio la masa so nai· lo iala hilo ka mapo mo nai",
+                    "en": "I love bread! I eat it every day."
+                },
+                {
+                    "ll": "ko haoa koli lo holo iala hina io mapo ni masa kai",
+                    "en": "You forgot to eat your cereal this morning!"
+                },
+                {
+                    "ll": "si masa lo hina li io mapo lo sami",
+                    "en": "Cultivate now in order to eat later."
+                },
+                {
+                    "ll": "ma lono mapo na mimi masa ni maki kilo mapo na mimi masa",
+                    "en": "Is a hotdog a sandwich?"
                 }
             ]
         },
@@ -4381,7 +4413,7 @@
             "definition": "inside, center, organs, guts",
             "examples": [
                 {
-                    "ll": "si napa li mimi maoi ni pao loa",
+                    "ll": "si napa li mimi maoi ni masa loa",
                     "en": "Push the stuffing into the turkey."
                 },
                 {
@@ -4572,7 +4604,7 @@
             "definition": "[agent role, force]",
             "examples": [
                 {
-                    "ll": "ka mapo ni pao mo haino",
+                    "ll": "ka mapo ni masa mo haino",
                     "en": "People eat bread."
                 },
                 {
@@ -5238,11 +5270,11 @@
                     "en": "Someone is blowing the leaves."
                 },
                 {
-                    "ll": "ka mapo ni pao",
+                    "ll": "ka mapo ni masa",
                     "en": "Bread is eaten."
                 },
                 {
-                    "ll": "ka mapo ni pao mo haino",
+                    "ll": "ka mapo ni masa mo haino",
                     "en": "People are eating bread."
                 }
             ]
@@ -5532,7 +5564,7 @@
             "definition": "[de-subordinator: dis-embeds io & na phrases; aside]",
             "examples": [
                 {
-                    "ll": "ka maoa la io mape ni pao no so kai",
+                    "ll": "ka maoa la io mape ni masa no so kai",
                     "en": "You want to eat rice."
                 },
                 {
@@ -5840,19 +5872,19 @@
             "definition": "[alternative role: coordinator of an alternative to the preceding argument or predicate]",
             "examples": [
                 {
-                    "ll": "ka haika ni pao mo haina oa ka mapo",
+                    "ll": "ka haika ni masa mo haina oa ka mapo",
                     "en": "The person either made bread or ate it."
                 },
                 {
-                    "ll": "ka haika oa mapo ni pao mo haino",
+                    "ll": "ka haika oa mapo ni masa mo haino",
                     "en": "The person either made or ate bread."
                 },
                 {
-                    "ll": "ma mapo ni pao ni iaoa mo kai",
+                    "ll": "ma mapo ni masa ni iaoa mo kai",
                     "en": "Do you eat bread and fruit (separately)?"
                 },
                 {
-                    "ll": "ma mapo ni pao oa iaoa mo kai",
+                    "ll": "ma mapo ni masa oa iaoa mo kai",
                     "en": "Do you eat bread or fruit?"
                 }
             ]
@@ -6037,7 +6069,7 @@
                     "en": "The atmosphere is great in that restaurant. Plus the food tastes amazing!"
                 },
                 {
-                    "ll": "—ka pao lima lo palo mapo· —oi ma hana ni sako mapo mo kai·",
+                    "ll": "—ka masa lima lo palo mapo· —oi ma hana ni sako mapo mo kai·",
                     "en": "—There is a lot of rice on the dinner table. —And did you set out the utensils?"
                 },
                 {
@@ -6308,7 +6340,7 @@
                     "en": "Their eyes are as blue as the sea."
                 },
                 {
-                    "ll": "ka iami oisa kono la pao noia",
+                    "ll": "ka iami oisa kono la masa noia",
                     "en": "The bland rice tastes like rocks."
                 }
             ]
@@ -6410,7 +6442,7 @@
                     "en": "Moisturize your dry skin!"
                 },
                 {
-                    "ll": "si hana mimi li mao momi ni paka pao",
+                    "ll": "si hana mimi li mao momi ni paka masa",
                     "en": "Incorporate the flour into the yeasty water."
                 },
                 {
@@ -6567,38 +6599,6 @@
             ]
         },
         {
-            "head": "pao",
-            "classification": {
-                "type": "content",
-                "tags": [
-                    "nature"
-                ]
-            },
-            "definition": "crop, staple grain or starch (product), cereal, rice",
-            "examples": [
-                {
-                    "ll": "ka moi io kao lo mao nalo ni pao",
-                    "en": "You need to soak the rice in hot water."
-                },
-                {
-                    "ll": "ka maio la pao so nai· lo iala hilo ka mapo mo nai",
-                    "en": "I love bread! I eat it every day."
-                },
-                {
-                    "ll": "ko haoa koli lo holo iala hina io mapo ni pao kai",
-                    "en": "You forgot to eat your cereal this morning!"
-                },
-                {
-                    "ll": "si pao lo hina li io mapo lo sami",
-                    "en": "Cultivate now in order to eat later."
-                },
-                {
-                    "ll": "ma lono mapo na mimi pao ni maki kilo mapo na mimi pao",
-                    "en": "Is a hotdog a sandwich?"
-                }
-            ]
-        },
-        {
             "head": "paoi",
             "classification": {
                 "type": "content",
@@ -6607,7 +6607,7 @@
             "definition": "hold, protect, guard, safe, care for, look after",
             "examples": [
                 {
-                    "ll": "mo kai oala pioa si paoi ni pao nai sa maio",
+                    "ll": "mo kai oala pioa si paoi ni masa nai sa maio",
                     "en": "Saturn, please protect our crops."
                 },
                 {
@@ -6759,7 +6759,7 @@
                     "en": "Please add much more spice to this food."
                 },
                 {
-                    "ll": "ho ma pao na momo pao hilo· ka koli so kai la io mapo sai ni lono piko",
+                    "ll": "ho ma masa na momo masa hilo· ka koli so kai la io mapo sai ni lono piko",
                     "en": "Whole wheat? You know I don't eat spicy food."
                 }
             ]
@@ -6927,7 +6927,7 @@
                     "en": "Don't you think Saturn's rings look beautiful?"
                 },
                 {
-                    "ll": "ko holo sai ni pao nai la io lami maoa sai li oala pioa",
+                    "ll": "ko holo sai ni masa nai la io lami maoa sai li oala pioa",
                     "en": "If we don't pray to Saturn, our crops won't grow!"
                 }
             ]
@@ -7473,7 +7473,7 @@
                     "en": "The next picture is amazing."
                 },
                 {
-                    "ll": "ka haika ni pao mo nai· lo sami ka mapo",
+                    "ll": "ka haika ni masa mo nai· lo sami ka mapo",
                     "en": "We made bread, then we ate it."
                 }
             ]
@@ -7655,7 +7655,7 @@
             "definition": "piece, part, sample",
             "examples": [
                 {
-                    "ll": "ma maoa ni sia mia na pao iana hina",
+                    "ll": "ma maoa ni sia mia na masa iana hina",
                     "en": "Which slice of this cake would you like?"
                 },
                 {
@@ -7679,7 +7679,7 @@
             "definition": "orange, tawny",
             "examples": [
                 {
-                    "ll": "ka hali la pao pali lima so nisa oioi sika",
+                    "ll": "ka hali la masa pali lima so nisa oioi sika",
                     "en": "The orange cat likes lasagna."
                 },
                 {
