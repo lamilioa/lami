@@ -3247,7 +3247,7 @@
                     "en": "I ride a bicycle to work."
                 },
                 {
-                    "ll": "si lia sioa lo liko sami",
+                    "ll": "si lia sosa lo liko sami",
                     "en": "Come again next time."
                 },
                 {
@@ -7816,15 +7816,19 @@
                     "time"
                 ]
             },
-            "definition": "new, fresh, again",
+            "definition": "new, fresh",
             "examples": [
                 {
-                    "ll": "si sioa ni loi hapi kai",
-                    "en": "Redo your last attempt."
+                    "ll": "ma sioa ni iaoa hano",
+                    "en": "Is that fruit fresh?"
                 },
                 {
-                    "ll": "ko lia sioa li hina ni papo· si kami ni sako naka",
-                    "en": "The authorities are returning here! Grab your weapons."
+                    "ll": "ka mai lo mako ni koia sioa hai mo hami",
+                    "en": "The parent cradles the new life in their arms."
+                },
+                {
+                    "ll": "ko lino mi lino sioa nana ni mo oina na haino koko",
+                    "en": "The prince(ss) only wears new clothes."
                 }
             ]
         },
@@ -8092,6 +8096,28 @@
                 {
                     "ll": "ka kao lo sopo piki ni iopa lina",
                     "en": "Clownfish live in sea anemonies."
+                }
+            ]
+        },
+        {
+            "head": "sosa",
+            "classification": {
+                "type": "content",
+                "tags": []
+            },
+            "definition": "again, repeat, iterate",
+            "examples": [
+                {
+                    "ll": "si sosa ni loi hapi kai",
+                    "en": "Redo your last attempt."
+                },
+                {
+                    "ll": "ko lia sosa li hina ni papo· si kami ni sako naka",
+                    "en": "The authorities are returning here! Grab your weapons."
+                },
+                {
+                    "ll": "ko holo koli mi sosa lima mo kai",
+                    "en": "You'll learn through constant repetition."
                 }
             ]
         },
