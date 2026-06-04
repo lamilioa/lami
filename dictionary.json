@@ -593,6 +593,28 @@
             ]
         },
         {
+            "head": "hapo",
+            "classification": {
+                "type": "content",
+                "tags": []
+            },
+            "definition": "wait, await, expect, hope",
+            "examples": [
+                {
+                    "ll": "ka hapo io holo ni mopa pako",
+                    "en": "I'm waiting for the bus."
+                },
+                {
+                    "ll": "ko lono hali lo sami hapo",
+                    "en": "Good things come after waiting."
+                },
+                {
+                    "ll": "si hapo oioi· ka moia io mapo mo lai·",
+                    "en": "Wait a little. I need to eat."
+                }
+            ]
+        },
+        {
             "head": "hasa",
             "classification": {
                 "type": "content",
@@ -1891,19 +1913,11 @@
                     "time"
                 ]
             },
-            "definition": "continue, endure, stay, remain, wait, save, keep",
+            "definition": "continue, endure, stay, remain",
             "examples": [
                 {
                     "ll": "ma kao lo mia ni kai",
                     "en": "Where do you live?"
-                },
-                {
-                    "ll": "si kao lo kila kai ni oina",
-                    "en": "Keep the youth under your watch."
-                },
-                {
-                    "ll": "ka haoa la koko nai io mako ni mono na 'kao pali'",
-                    "en": "I forgot to press the 'save' button."
                 },
                 {
                     "ll": "kao ka mapo mo hai",
