@@ -201,19 +201,15 @@
                     "spatial"
                 ]
             },
-            "definition": "up, above, sky, high",
+            "definition": "sky, heavens, high, height, top",
             "examples": [
-                {
-                    "ll": "ma kao lo haioa komo ni maoi",
-                    "en": "Do the birds live above the trees?"
-                },
                 {
                     "ll": "ma maio la kaoi haioa so kai",
                     "en": "Do you love the colour of the sky?"
                 },
                 {
-                    "ll": "si haioa la oioa kai so hilo",
-                    "en": "Let your name be revered by all."
+                    "ll": "ma haioa mia ni kona hano",
+                    "en": "How tall is that mountain?"
                 }
             ]
         },
@@ -1337,7 +1333,7 @@
                 "type": "content",
                 "tags": []
             },
-            "definition": "write, sign",
+            "definition": "write, sign, record, engrave",
             "examples": [
                 {
                     "ll": "lo holo iala hilo ka iapa lo pali hoia mo nai",
@@ -1348,7 +1344,7 @@
                     "en": "Is that your handwriting?"
                 },
                 {
-                    "ll": "si iapa lo haioa na maki laka hina ni oioa kai sa maio",
+                    "ll": "si iapa lo soa na maki laka hina ni oioa kai sa maio",
                     "en": "Please write your name on the dotted line."
                 }
             ]
@@ -2456,7 +2452,7 @@
                     "spatial"
                 ]
             },
-            "definition": "head, guide, top, bow (of ship)",
+            "definition": "head, guide, bow (of ship)",
             "examples": [
                 {
                     "ll": "ka laka la koko so nai",
@@ -2465,10 +2461,6 @@
                 {
                     "ll": "ma koko ni noki nai mo mia",
                     "en": "Who will lead our community?"
-                },
-                {
-                    "ll": "ka kao ni maoi lima lo koko malo",
-                    "en": "On top of the house, there are many birds."
                 },
                 {
                     "ll": "ka kila ni mao homa saki mo haino kami lo koko na malo mao",
@@ -2793,7 +2785,7 @@
                 "type": "content",
                 "tags": []
             },
-            "definition": "break, hurt, harm, mistake",
+            "definition": "break, hurt, harm",
             "examples": [
                 {
                     "ll": "ma laka la mako so kai",
@@ -2963,7 +2955,7 @@
                     "en": "The telephone transmits via satellite."
                 },
                 {
-                    "ll": "ka haoli ni haioa ki nono na mao homa nai mo lana",
+                    "ll": "ka haoli ni soa ki nono na mao homa nai mo lana",
                     "en": "The moon powers the rise and fall of our oceans."
                 }
             ]
@@ -3099,6 +3091,10 @@
                 {
                     "ll": "ka lapo ni maoi homa hala so nai",
                     "en": "The dragon is a majestic being to us."
+                },
+                {
+                    "ll": "si lapo la oioa kai so hilo",
+                    "en": "Let your name be revered by all."
                 }
             ]
         },
@@ -3202,7 +3198,7 @@
                     "en": "He swims in the big pool."
                 },
                 {
-                    "ll": "ma lia mi oilo li noli mia mo sako haioa",
+                    "ll": "ma lia mi oilo li noli mia mo sako lilo",
                     "en": "Where did the plane fly to?"
                 }
             ]
@@ -3227,7 +3223,7 @@
                     "en": "The clay pot cured in the fire."
                 },
                 {
-                    "ll": "ko homa haioa ni liki masa lo sami oioi hao",
+                    "ll": "ko homa soa ni liki masa lo sami oioi hao",
                     "en": "The dough should rise soon."
                 }
             ]
@@ -3588,7 +3584,7 @@
                     "en": "We live in the forest."
                 },
                 {
-                    "ll": "ka lia iomi lo haioa noli mo hailo",
+                    "ll": "ka lia iomi lo soa noli mo hailo",
                     "en": "A star flew above the earth."
                 },
                 {
@@ -3777,7 +3773,7 @@
                     "spatial"
                 ]
             },
-            "definition": "left, portside, Macropod marsupials",
+            "definition": "left, portside",
             "examples": [
                 {
                     "ll": "ka kao lo kamo loni na lino kala ni maki kino mo hai",
@@ -4581,15 +4577,15 @@
             "definition": "salt, savoury, umami",
             "examples": [
                 {
-                    "ll": "ka iaio li iaoa ni mami mo haino mapo",
+                    "ll": "ka iaio li iaoa ni miso mo haino mapo",
                     "en": "The chef adds salt to the vegetables."
                 },
                 {
-                    "ll": "ko mami ni palo iana hina· ma haoa koli ni iana·",
+                    "ll": "ko miso ni palo iana hina· ma haoa koli ni iana·",
                     "en": "This pancake is savoury. Did you forget the sugar?"
                 },
                 {
-                    "ll": "si mapo ni mao mami lo io mosa so kai",
+                    "ll": "si mapo ni mao miso lo io mosa so kai",
                     "en": "You should eat savoury broth when you feel ill."
                 }
             ]
@@ -4649,7 +4645,7 @@
                     "spatial"
                 ]
             },
-            "definition": "base, foundation, floor, ground",
+            "definition": "bottom, base, foundation, floor, ground",
             "examples": [
                 {
                     "ll": "si haoli ni moka malo",
@@ -4684,7 +4680,7 @@
                     "en": "Have I dishonoured your name?"
                 },
                 {
-                    "ll": "ko haioa sai la paka nalo moki mo kai",
+                    "ll": "ko soa sai la paka nalo moki mo kai",
                     "en": "You shall never rise from the ashes of your shame."
                 },
                 {
@@ -5309,15 +5305,11 @@
                 "type": "content",
                 "tags": []
             },
-            "definition": "cold, ice, raw",
+            "definition": "cold, ice",
             "examples": [
                 {
                     "ll": "ka niko la noli loni na holo iala so haino haoa",
                     "en": "The northern land is cold to foreigners."
-                },
-                {
-                    "ll": "ka sapi sano io mapo ni maoi niko pi poli",
-                    "en": "Maybe it's unhealthy to eat raw bird."
                 },
                 {
                     "ll": "ma maoa li mao kai ni niko",
@@ -5822,7 +5814,7 @@
                     "spatial"
                 ]
             },
-            "definition": "down, below, under, nether",
+            "definition": "down, below, under, fall, descend",
             "examples": [
                 {
                     "ll": "si palo ki oaio lo nono haioa moli",
@@ -5837,7 +5829,7 @@
                     "en": "Should we eat at sunset?"
                 },
                 {
-                    "ll": "si nili li nono",
+                    "ll": "si nono ni nili",
                     "en": "Let the rain come down!"
                 }
             ]
@@ -5938,6 +5930,24 @@
             ]
         },
         {
+            "head": "oako",
+            "classification": {
+                "type": "content",
+                "tags": []
+            },
+            "definition": "mistake, error, fault, wrong",
+            "examples": [
+                {
+                    "ll": "ko oako lo pali hina na kako koli sa oaso",
+                    "en": "There's a mistake in this exam paper!"
+                },
+                {
+                    "ll": "ma oako haola io pilo mi maki mapo mo lai",
+                    "en": "Is it a cultural mistake that I play with my chopsticks?"
+                }
+            ]
+        },
+        {
             "head": "oala",
             "classification": {
                 "type": "content",
@@ -5978,7 +5988,7 @@
                     "en": "Young people's feelings are complex."
                 },
                 {
-                    "ll": "ma poli io pona ni oamo lami lai mo kai",
+                    "ll": "ma poli io pano ni oamo lami lai mo kai",
                     "en": "Can you solve my riddles?"
                 },
                 {
@@ -6257,7 +6267,7 @@
                     "en": "You collect many fruits; we collect fewer fruits."
                 },
                 {
-                    "ll": "ma haioa oini  na kona iako ni kona holi",
+                    "ll": "ma haioa oini na kona iako ni kona holi",
                     "en": "Is the purple mountain less high than the blue mountain?"
                 }
             ]
@@ -6375,7 +6385,7 @@
                 "subtype": "contentifier",
                 "tags": []
             },
-            "definition": "[particle: refers to the role or function of the particle immediately preceding it, or to the particle itself]; the written string '69'",
+            "definition": "[particle: refers to the role or function of the particle immediately preceding it, or to the particle itself]",
             "examples": [
                 {
                     "ll": "mo pai ka haika lo lami ni lono",
@@ -6492,23 +6502,15 @@
                     "material"
                 ]
             },
-            "definition": "leaf, page, book, (web)site, document",
+            "definition": "page, book, (web)site, document",
             "examples": [
                 {
                     "ll": "ma pali mo kai ni io lami mo nai",
                     "en": "Are you keeping track of what I'm saying?"
                 },
                 {
-                    "ll": "ka pali lima lo komo",
-                    "en": "Trees have many leaves."
-                },
-                {
                     "ll": "si kila ni pali laia nai sa hali",
                     "en": "Please look at my webpage."
-                },
-                {
-                    "ll": "ko pali mo nai ni haika oaki na mo kai",
-                    "en": "I will make a record of the bad things you did."
                 },
                 {
                     "ll": "hi· ka naki ni nai mo pali",
@@ -6595,6 +6597,30 @@
                 {
                     "ll": "si lina lo pana mo oina",
                     "en": "Let the children play in the fields."
+                }
+            ]
+        },
+        {
+            "head": "pano",
+            "classification": {
+                "type": "content",
+                "tags": [
+                    "spatial"
+                ]
+            },
+            "definition": "simple, arrange, organise, fit",
+            "examples": [
+                {
+                    "ll": "ma pano io lino mi kaoi iala lo haola na lo sami naka",
+                    "en": "Is it appropriate to wear bright colours at a funeral?"
+                },
+                {
+                    "ll": "si pano mi kaoi li noki nio ni masa hina",
+                    "en": "Arrange these grains into three groups by colour."
+                },
+                {
+                    "ll": "ka maoa so miko la io haika ni lami pano",
+                    "en": "The woman wanted to make a simple language."
                 }
             ]
         },
@@ -7187,30 +7213,6 @@
                 {
                     "ll": "lo pomo ka nono la komo ni pali",
                     "en": "Leaves fall from the trees in the autumn."
-                }
-            ]
-        },
-        {
-            "head": "pona",
-            "classification": {
-                "type": "content",
-                "tags": [
-                    "spatial"
-                ]
-            },
-            "definition": "simple, arrange, organise, fit",
-            "examples": [
-                {
-                    "ll": "ma pona io lino mi kaoi iala lo haola na lo sami naka",
-                    "en": "Is it appropriate to wear bright colours at a funeral?"
-                },
-                {
-                    "ll": "si pona mi kaoi li noki nio ni masa hina",
-                    "en": "Arrange these grains into three groups by colour."
-                },
-                {
-                    "ll": "ka maoa so miko la io haika ni lami pona",
-                    "en": "The woman wanted to make a simple language."
                 }
             ]
         },
@@ -7895,6 +7897,26 @@
                 {
                     "ll": "ma hali so kai",
                     "en": "Are you happy?"
+                }
+            ]
+        },
+        {
+            "head": "soa",
+            "classification": {
+                "type": "content",
+                "tags": [
+                    "spatial"
+                ]
+            },
+            "definition": "up, above, over, rise, ascend",
+            "examples": [
+                {
+                    "ll": "ka soa li haioa mo sako maoi",
+                    "en": "The aeroplane is rising into the sky."
+                },
+                {
+                    "ll": "lo soa iala nana ko poli io kila la iala mo so lai",
+                    "en": "It's only during sunrise that I'm able to look at the sun."
                 }
             ]
         },
