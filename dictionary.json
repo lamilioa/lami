@@ -593,7 +593,7 @@
             ]
         },
         {
-            "head": "hapo",
+            "head": "iono",
             "classification": {
                 "type": "content",
                 "tags": []
@@ -601,15 +601,15 @@
             "definition": "wait, await, expect, hope",
             "examples": [
                 {
-                    "ll": "ka hapo io holo ni mopa pako",
+                    "ll": "ka iono io holo ni mopa pako",
                     "en": "I'm waiting for the bus."
                 },
                 {
-                    "ll": "ko lono hali lo sami hapo",
+                    "ll": "ko lono hali lo sami iono",
                     "en": "Good things come after waiting."
                 },
                 {
-                    "ll": "si hapo oioi· ka moia io mapo mo lai·",
+                    "ll": "si iono oioi· ka moia io mapo mo lai·",
                     "en": "Wait a little. I need to eat."
                 }
             ]
@@ -1284,19 +1284,37 @@
                 "type": "content",
                 "tags": []
             },
-            "definition": "sweet, sugar, delicate, cute",
+            "definition": "sweet, sugar",
             "examples": [
                 {
                     "ll": "ka hali iami la masa iana",
                     "en": "Cake is delicious."
                 },
                 {
-                    "ll": "ka iana la koi hina",
-                    "en": "That guy is cute."
-                },
-                {
                     "ll": "lo io koma ni kamo iana ko moi io lia li mana mo nai",
                     "en": "If the sugar bowl is empty, we'll have to go shopping."
+                }
+            ]
+        },
+        {
+            "head": "iano",
+            "classification": {
+                "type": "content",
+                "tags": []
+            },
+            "definition": "win, victory, success",
+            "examples": [
+                {
+                    "ll": "mo miko ka iano io lia mi mopa lilo",
+                    "en": "The woman succeeded in driving the boat."
+                },
+                {
+                    "ll": "ma iano mo kai oina",
+                    "en": "Are you winning, son?"
+                },
+                {
+                    "ll": "ko iano saoi ni pilo momo mo hono haioa lai",
+                    "en": "My tall friend always wins at ball games."
                 }
             ]
         },
@@ -1366,7 +1384,7 @@
                     "en": "Is that your handwriting?"
                 },
                 {
-                    "ll": "si iapa lo soa na maki laka hina ni oioa kai sa maio",
+                    "ll": "si iapa lo solo na maki laka hina ni oioa kai sa maio",
                     "en": "Please write your name on the dotted line."
                 }
             ]
@@ -1803,7 +1821,7 @@
             "definition": "take, seize, catch, understand",
             "examples": [
                 {
-                    "ll": "ma kami ni maki na oima hoko mo kai",
+                    "ll": "ma kami ni maki na paso hoko mo kai",
                     "en": "Did you grab the keys?"
                 },
                 {
@@ -2143,7 +2161,7 @@
                     "en": "This group at the university exists to serve people with disabilities."
                 },
                 {
-                    "ll": "ma oima poli na li kima kala ni malo",
+                    "ll": "ma paso poli na li kima kala ni malo",
                     "en": "Is this building locomotor-disability-accessible?"
                 }
             ]
@@ -2448,7 +2466,7 @@
                     "en": "She is a mathematician."
                 },
                 {
-                    "ll": "ka liko koka kana ni hina lo io nami lo hina",
+                    "ll": "ka liko koka kana ni hina lo io sipa lo hina",
                     "en": "This is the fourth time that we've danced here."
                 },
                 {
@@ -2969,7 +2987,7 @@
                     "en": "The telephone transmits via satellite."
                 },
                 {
-                    "ll": "ka haoli ni soa ki nono na mao homa nai mo lana",
+                    "ll": "ka haoli ni solo ki nono na mao homa nai mo lana",
                     "en": "The moon powers the rise and fall of our oceans."
                 }
             ]
@@ -3237,7 +3255,7 @@
                     "en": "The clay pot cured in the fire."
                 },
                 {
-                    "ll": "ko homa soa ni liki masa lo sami oioi hao",
+                    "ll": "ko homa solo ni liki masa lo sami oioi hao",
                     "en": "The dough should rise soon."
                 }
             ]
@@ -3598,7 +3616,7 @@
                     "en": "We live in the forest."
                 },
                 {
-                    "ll": "ka lia iomi lo soa noli mo hailo",
+                    "ll": "ka lia iomi lo solo noli mo hailo",
                     "en": "A star flew above the earth."
                 },
                 {
@@ -4471,7 +4489,7 @@
                     "time"
                 ]
             },
-            "definition": "end, complete, finish",
+            "definition": "end, complete, finish, late",
             "examples": [
                 {
                     "ll": "si haika li mino mo kai",
@@ -4694,7 +4712,7 @@
                     "en": "Have I dishonoured your name?"
                 },
                 {
-                    "ll": "ko soa sai la paka nalo moki mo kai",
+                    "ll": "ko solo sai la paka nalo moki mo kai",
                     "en": "You shall never rise from the ashes of your shame."
                 },
                 {
@@ -5713,11 +5731,11 @@
                     "emotion"
                 ]
             },
-            "definition": "free(dom), victory",
+            "definition": "liberation, free(dom)",
             "examples": [
                 {
                     "ll": "mo kai oina si kami la papo ni nolo",
-                    "en": "Children, seize victory from your oppressors!"
+                    "en": "Children, seize freedom from your oppressors!"
                 },
                 {
                     "ll": "ka nolo la papo na maki mimi ni sopo",
@@ -5949,7 +5967,7 @@
                 "type": "content",
                 "tags": []
             },
-            "definition": "mistake, error, fault, wrong",
+            "definition": "mistake, error, fault, wrong, fail",
             "examples": [
                 {
                     "ll": "ko oako lo pali hina na kako koli sa oaso",
@@ -6205,7 +6223,7 @@
                     "time"
                 ]
             },
-            "definition": "begin, start, open, available",
+            "definition": "begin, start, early",
             "examples": [
                 {
                     "ll": "ka oima ni lina",
@@ -6216,20 +6234,8 @@
                     "en": "Start the machine!"
                 },
                 {
-                    "ll": "si oima ni kamo",
-                    "en": "Open the box."
-                },
-                {
                     "ll": "ma oima io lami mo hai",
                     "en": "Did they begin to speak?"
-                },
-                {
-                    "ll": "ka oima sai li haino ni malo hina",
-                    "en": "This building is not open to the public."
-                },
-                {
-                    "ll": "ka maoa so nai io haika ni lono ioki na oima poli",
-                    "en": "We want to make accessible resources."
                 }
             ]
         },
@@ -6676,7 +6682,7 @@
                     "sound"
                 ]
             },
-            "definition": "burst, explode, shoot",
+            "definition": "burst, explode, shoot, boom",
             "examples": [
                 {
                     "ll": "ma lala la papa na sako kako so kai",
@@ -6711,6 +6717,28 @@
                 {
                     "ll": "ko papo· si iomi",
                     "en": "It's the feds; skedaddle!"
+                }
+            ]
+        },
+        {
+            "head": "paso",
+            "classification": {
+                "type": "content",
+                "tags": []
+            },
+            "definition": "open, available",
+            "examples": [
+                {
+                    "ll": "si paso ni kamo",
+                    "en": "Open the box."
+                },
+                {
+                    "ll": "ka paso sai li haino ni malo hina",
+                    "en": "This building is not open to the public."
+                },
+                {
+                    "ll": "ka maoa so nai io haika ni lono ioki na paso poli",
+                    "en": "We want to make accessible resources."
                 }
             ]
         },
@@ -6981,7 +7009,7 @@
                     "sound"
                 ]
             },
-            "definition": "tingle, tickle, fizz, sizzle",
+            "definition": "tingle, tickle, fizz, sizzle, hum, buzz, hiss",
             "examples": [
                 {
                     "ll": "ma pipa lo lipi la lio so kai",
@@ -7867,6 +7895,26 @@
             ]
         },
         {
+            "head": "sipi",
+            "classification": {
+                "type": "content",
+                "tags": [
+                    "sound"
+                ]
+            },
+            "definition": "whistle, shriek, ring, shrill",
+            "examples": [
+                {
+                    "ll": "si sipa lo io lama mi sako sipi mo nai",
+                    "en": "Dance while I play the flute!"
+                },
+                {
+                    "ll": "ka mioa sipi mo koi la io kila ni lapo lio na io hali nao hilo so hai",
+                    "en": "The man screamed as he saw his favourite popstar."
+                }
+            ]
+        },
+        {
             "head": "siso",
             "classification": {
                 "type": "content",
@@ -7919,7 +7967,7 @@
             ]
         },
         {
-            "head": "soa",
+            "head": "solo",
             "classification": {
                 "type": "content",
                 "tags": [
@@ -7929,11 +7977,11 @@
             "definition": "up, above, over, rise, ascend",
             "examples": [
                 {
-                    "ll": "ka soa li haioa mo sako maoi",
+                    "ll": "ka solo li haioa mo sako maoi",
                     "en": "The aeroplane is rising into the sky."
                 },
                 {
-                    "ll": "lo soa iala nana ko poli io kila la iala mo so lai",
+                    "ll": "lo solo iala nana ko poli io kila la iala mo so lai",
                     "en": "It's only during sunrise that I'm able to look at the sun."
                 }
             ]
